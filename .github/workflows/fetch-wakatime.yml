@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * 0"   # cada domingo a las 6:00 UTC
   workflow_dispatch:        # también se puede correr manualmente
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
