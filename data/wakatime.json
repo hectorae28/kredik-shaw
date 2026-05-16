@@ -1,0 +1,150 @@
+{
+  "weeks": [
+    {
+      "week_start": "2026-05-04",
+      "week_end": "2026-05-10",
+      "fetched_at": "2026-05-16T23:17:29.607970Z",
+      "total_seconds": 112048.272833,
+      "daily_average": 18675.0,
+      "best_day": {
+        "date": "2026-05-15",
+        "total_seconds": 31353.0,
+        "text": "8 hrs 42 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 55505.695441
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 48687.816442
+        },
+        {
+          "name": "Other",
+          "total_seconds": 13996.726706
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 5832.067389
+        },
+        {
+          "name": "Docker",
+          "total_seconds": 1048.002929
+        },
+        {
+          "name": "JSON",
+          "total_seconds": 440.021666
+        },
+        {
+          "name": "CSS",
+          "total_seconds": 205.357112
+        },
+        {
+          "name": "gitignore",
+          "total_seconds": 172.0
+        }
+      ],
+      "projects": [
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 49995.77071
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 37714.143104
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 25438.167277
+        },
+        {
+          "name": "COV",
+          "total_seconds": 5363.918448
+        },
+        {
+          "name": "IVEO-Project",
+          "total_seconds": 5169.0
+        },
+        {
+          "name": "finanzas-app",
+          "total_seconds": 2354.0
+        },
+        {
+          "name": "DACOMED-BACKEND",
+          "total_seconds": 10.0
+        }
+      ],
+      "editors": [
+        {
+          "name": "OpenCode",
+          "total_seconds": 66151.366125
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 59144.490173
+        },
+        {
+          "name": "Unknown Editor",
+          "total_seconds": 749.143241
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 126044.999539
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 70581.24389
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 53695.377596
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 1768.378053
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 126044.999539
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-04",
+          "total_seconds": 15080.0
+        },
+        {
+          "date": "2026-05-05",
+          "total_seconds": 1936.0
+        },
+        {
+          "date": "2026-05-06",
+          "total_seconds": 23908.0
+        },
+        {
+          "date": "2026-05-07",
+          "total_seconds": 20450.780388
+        },
+        {
+          "date": "2026-05-08",
+          "total_seconds": 16783.0
+        },
+        {
+          "date": "2026-05-09",
+          "total_seconds": 12115.0
+        },
+        {
+          "date": "2026-05-10",
+          "total_seconds": 0.0
+        }
+      ]
+    }
+  ]
+}
