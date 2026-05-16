@@ -8,6 +8,7 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    environment: WAKATIME_API_KEY
     steps:
       - name: Checkout branch wakatime-data
         uses: actions/checkout@v4
