@@ -145,6 +145,50 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-05-11",
+      "week_end": "2026-05-17",
+      "fetched_at": "2026-05-24T08:39:49.131216Z",
+      "total_seconds": 0,
+      "daily_average": 0,
+      "best_day": {},
+      "languages": [],
+      "projects": [],
+      "editors": [],
+      "operating_systems": [],
+      "categories": [],
+      "machines": [],
+      "daily": [
+        {
+          "date": "2026-05-11",
+          "total_seconds": 22630.765529
+        },
+        {
+          "date": "2026-05-12",
+          "total_seconds": 17576.382247
+        },
+        {
+          "date": "2026-05-13",
+          "total_seconds": 23113.526996
+        },
+        {
+          "date": "2026-05-14",
+          "total_seconds": 19256.324767
+        },
+        {
+          "date": "2026-05-15",
+          "total_seconds": 31353.0
+        },
+        {
+          "date": "2026-05-16",
+          "total_seconds": 2141.0
+        },
+        {
+          "date": "2026-05-17",
+          "total_seconds": 20537.728545
+        }
+      ]
     }
   ]
 }
