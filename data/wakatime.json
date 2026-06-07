@@ -233,6 +233,152 @@
           "total_seconds": 6786.0
         }
       ]
+    },
+    {
+      "week_start": "2026-05-25",
+      "week_end": "2026-05-31",
+      "fetched_at": "2026-06-07T09:26:44.588901Z",
+      "total_seconds": 81487.540987,
+      "daily_average": 13581,
+      "best_day": {
+        "date": "2026-05-28",
+        "total_seconds": 23958.729033,
+        "text": "6 hrs 39 mins"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "total_seconds": 33689.333833
+        },
+        {
+          "name": "Python",
+          "total_seconds": 26491.048936
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 14405.664756
+        },
+        {
+          "name": "JSON",
+          "total_seconds": 1972.493681
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 1179.332188
+        },
+        {
+          "name": "Docker",
+          "total_seconds": 1072.906408
+        },
+        {
+          "name": "CSS",
+          "total_seconds": 968.804147
+        },
+        {
+          "name": "Bash",
+          "total_seconds": 871.61185
+        }
+      ],
+      "projects": [
+        {
+          "name": "nutriapp",
+          "total_seconds": 68941.008638
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 8399.0
+        },
+        {
+          "name": "DACOMED-BACKEND",
+          "total_seconds": 2780.0
+        },
+        {
+          "name": "finanzas-app",
+          "total_seconds": 1453.0
+        },
+        {
+          "name": "COV",
+          "total_seconds": 602.0
+        },
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 23.0
+        }
+      ],
+      "editors": [
+        {
+          "name": "OpenCode",
+          "total_seconds": 31367.946694
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 29305.594436
+        },
+        {
+          "name": "Opencode Cli",
+          "total_seconds": 20071.467508
+        },
+        {
+          "name": "Claude Code",
+          "total_seconds": 1453.0
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 82198.008638
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 56947.183502
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 17619.423009
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 7631.402127
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 82198.008638
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-05-25",
+          "total_seconds": 13274.279605
+        },
+        {
+          "date": "2026-05-26",
+          "total_seconds": 15304.0
+        },
+        {
+          "date": "2026-05-27",
+          "total_seconds": 11094.0
+        },
+        {
+          "date": "2026-05-28",
+          "total_seconds": 23966.0
+        },
+        {
+          "date": "2026-05-29",
+          "total_seconds": 11781.0
+        },
+        {
+          "date": "2026-05-30",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-05-31",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
