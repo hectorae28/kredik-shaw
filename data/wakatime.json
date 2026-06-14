@@ -379,6 +379,144 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-06-01",
+      "week_end": "2026-06-07",
+      "fetched_at": "2026-06-14T09:48:35.912189Z",
+      "total_seconds": 88543.185705,
+      "daily_average": 14757,
+      "best_day": {
+        "date": "2026-06-01",
+        "total_seconds": 24184.0,
+        "text": "6 hrs 43 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 44420.905046
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 20106.836841
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 17849.275674
+        },
+        {
+          "name": "gitignore",
+          "total_seconds": 3901.742793
+        },
+        {
+          "name": "CSS",
+          "total_seconds": 1538.237605
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 253.820183
+        },
+        {
+          "name": "SQL",
+          "total_seconds": 174.897071
+        },
+        {
+          "name": "JSON",
+          "total_seconds": 125.062529
+        }
+      ],
+      "projects": [
+        {
+          "name": "nutriapp",
+          "total_seconds": 56201.831975
+        },
+        {
+          "name": "DACOMED-BACKEND",
+          "total_seconds": 31279.06003
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 1063.0
+        },
+        {
+          "name": "e05808b4256a8298e726bf5d75586fe2b189663c4845f7089f150a37363b7ebf",
+          "total_seconds": 13.305564
+        },
+        {
+          "name": "Unknown Project",
+          "total_seconds": 7.0
+        }
+      ],
+      "editors": [
+        {
+          "name": "Neovim",
+          "total_seconds": 42002.747641
+        },
+        {
+          "name": "OpenCode",
+          "total_seconds": 27008.428722
+        },
+        {
+          "name": "Opencode Cli",
+          "total_seconds": 19553.021206
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 88564.197569
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 50023.346364
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 27348.504894
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 11192.346311
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 88564.197569
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-01",
+          "total_seconds": 24184.0
+        },
+        {
+          "date": "2026-06-02",
+          "total_seconds": 5198.0
+        },
+        {
+          "date": "2026-06-03",
+          "total_seconds": 16263.073781
+        },
+        {
+          "date": "2026-06-04",
+          "total_seconds": 20159.0
+        },
+        {
+          "date": "2026-06-05",
+          "total_seconds": 9382.637847
+        },
+        {
+          "date": "2026-06-06",
+          "total_seconds": 13377.485941
+        },
+        {
+          "date": "2026-06-07",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
