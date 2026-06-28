@@ -683,6 +683,152 @@
           "total_seconds": 686.0
         }
       ]
+    },
+    {
+      "week_start": "2026-06-15",
+      "week_end": "2026-06-21",
+      "fetched_at": "2026-06-28T09:22:00.341982Z",
+      "total_seconds": 58947.817157,
+      "daily_average": 8421,
+      "best_day": {
+        "date": "2026-06-16",
+        "total_seconds": 19703.722365,
+        "text": "5 hrs 28 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 28392.001523
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 15409.536742
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 8944.125884
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 2803.499946
+        },
+        {
+          "name": "gitignore",
+          "total_seconds": 1812.0
+        },
+        {
+          "name": "Text",
+          "total_seconds": 1020.003027
+        },
+        {
+          "name": "Other",
+          "total_seconds": 441.0
+        },
+        {
+          "name": "conf",
+          "total_seconds": 245.0
+        }
+      ],
+      "projects": [
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 58446.817157
+        },
+        {
+          "name": "Work",
+          "total_seconds": 615.0
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 187.0
+        },
+        {
+          "name": "Unknown Project",
+          "total_seconds": 140.0
+        }
+      ],
+      "editors": [
+        {
+          "name": "Neovim",
+          "total_seconds": 25385.804586
+        },
+        {
+          "name": "OpenCode",
+          "total_seconds": 16847.362089
+        },
+        {
+          "name": "Opencode Cli",
+          "total_seconds": 16057.650482
+        },
+        {
+          "name": "Claude Code",
+          "total_seconds": 1098.0
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 58702.817157
+        },
+        {
+          "name": "Linux",
+          "total_seconds": 686.0
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 36402.817157
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 16382.0
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 6604.0
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 58702.817157
+        },
+        {
+          "name": "omarchy",
+          "total_seconds": 686.0
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-06-15",
+          "total_seconds": 10265.338387
+        },
+        {
+          "date": "2026-06-16",
+          "total_seconds": 19703.722365
+        },
+        {
+          "date": "2026-06-17",
+          "total_seconds": 15458.756405
+        },
+        {
+          "date": "2026-06-18",
+          "total_seconds": 3304.0
+        },
+        {
+          "date": "2026-06-19",
+          "total_seconds": 303.0
+        },
+        {
+          "date": "2026-06-20",
+          "total_seconds": 9668.0
+        },
+        {
+          "date": "2026-06-21",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
