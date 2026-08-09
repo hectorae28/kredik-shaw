@@ -1469,6 +1469,168 @@
           "total_seconds": 7933.481
         }
       ]
+    },
+    {
+      "week_start": "2026-07-27",
+      "week_end": "2026-08-02",
+      "fetched_at": "2026-08-09T07:05:25.636355Z",
+      "total_seconds": 160951.723115,
+      "daily_average": 22993,
+      "best_day": {
+        "date": "2026-07-29",
+        "total_seconds": 37060.809,
+        "text": "10 hrs 17 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 70827.694282
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 54077.677776
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 26384.316486
+        },
+        {
+          "name": "Image (png)",
+          "total_seconds": 3156.657523
+        },
+        {
+          "name": "Other",
+          "total_seconds": 3123.610462
+        },
+        {
+          "name": "Bash",
+          "total_seconds": 1872.313812
+        },
+        {
+          "name": "HTML",
+          "total_seconds": 1534.782457
+        },
+        {
+          "name": "TOML",
+          "total_seconds": 989.933
+        }
+      ],
+      "projects": [
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 154020.015334
+        },
+        {
+          "name": "alagem",
+          "total_seconds": 5833.097
+        },
+        {
+          "name": "tmp",
+          "total_seconds": 2033.373
+        },
+        {
+          "name": "dacosi-plantillas",
+          "total_seconds": 1023.336849
+        },
+        {
+          "name": "COV",
+          "total_seconds": 501.85323
+        },
+        {
+          "name": "Unknown Project",
+          "total_seconds": 341.091286
+        },
+        {
+          "name": "dacosi-piloto",
+          "total_seconds": 195.805108
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 91.105394
+        }
+      ],
+      "editors": [
+        {
+          "name": "Opencode Cli",
+          "total_seconds": 104106.694817
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 27719.986043
+        },
+        {
+          "name": "OpenCode",
+          "total_seconds": 20250.496059
+        },
+        {
+          "name": "Claude Code",
+          "total_seconds": 11998.156658
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 149765.955577
+        },
+        {
+          "name": "Linux",
+          "total_seconds": 14309.378
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 148307.122906
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 8936.067385
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 6832.143286
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 149765.955577
+        },
+        {
+          "name": "omarchy",
+          "total_seconds": 14309.378
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-07-27",
+          "total_seconds": 25778.0
+        },
+        {
+          "date": "2026-07-28",
+          "total_seconds": 21636.790405
+        },
+        {
+          "date": "2026-07-29",
+          "total_seconds": 37060.809
+        },
+        {
+          "date": "2026-07-30",
+          "total_seconds": 28943.061955
+        },
+        {
+          "date": "2026-07-31",
+          "total_seconds": 28042.339
+        },
+        {
+          "date": "2026-08-01",
+          "total_seconds": 14680.852217
+        },
+        {
+          "date": "2026-08-02",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
