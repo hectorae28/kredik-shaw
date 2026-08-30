@@ -1931,6 +1931,136 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-08-17",
+      "week_end": "2026-08-23",
+      "fetched_at": "2026-08-30T11:42:59.394975Z",
+      "total_seconds": 138758.092426,
+      "daily_average": 27752,
+      "best_day": {
+        "date": "2026-08-20",
+        "total_seconds": 31000.269836,
+        "text": "8 hrs 36 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 59967.228438
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 39833.716214
+        },
+        {
+          "name": "TypeScript",
+          "total_seconds": 34564.456908
+        },
+        {
+          "name": "Other",
+          "total_seconds": 1699.77941
+        },
+        {
+          "name": "JSON",
+          "total_seconds": 1143.200769
+        },
+        {
+          "name": "HTML",
+          "total_seconds": 915.624593
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 912.922535
+        },
+        {
+          "name": "Git Config",
+          "total_seconds": 773.577
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 139836.913641
+        },
+        {
+          "name": "COV",
+          "total_seconds": 620.958195
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 64285.238074
+        },
+        {
+          "name": "Opencode Cli",
+          "total_seconds": 64275.490709
+        },
+        {
+          "name": "OpenCode",
+          "total_seconds": 11112.658644
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 784.484409
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 140457.871836
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 140186.665794
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 145.195
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 126.011042
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 140457.871836
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-08-17",
+          "total_seconds": 30603.714
+        },
+        {
+          "date": "2026-08-18",
+          "total_seconds": 23612.009
+        },
+        {
+          "date": "2026-08-19",
+          "total_seconds": 26325.242
+        },
+        {
+          "date": "2026-08-20",
+          "total_seconds": 31000.269836
+        },
+        {
+          "date": "2026-08-21",
+          "total_seconds": 31246.318
+        },
+        {
+          "date": "2026-08-22",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-08-23",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
