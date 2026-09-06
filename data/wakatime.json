@@ -2061,6 +2061,140 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-08-24",
+      "week_end": "2026-08-30",
+      "fetched_at": "2026-09-06T10:42:30.218753Z",
+      "total_seconds": 150068.1,
+      "daily_average": 30014,
+      "best_day": {
+        "date": "2026-08-26",
+        "total_seconds": 33072.187,
+        "text": "9 hrs 11 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 67423.717
+        },
+        {
+          "name": "TypeScript",
+          "total_seconds": 49004.094
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 28943.578
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 1226.98
+        },
+        {
+          "name": "CSS",
+          "total_seconds": 1180.449
+        },
+        {
+          "name": "Bash",
+          "total_seconds": 695.849
+        },
+        {
+          "name": "Git Config",
+          "total_seconds": 632.82
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 588.978
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 142952.223
+        },
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 6820.166
+        },
+        {
+          "name": "dacosi-metodologia",
+          "total_seconds": 281.184
+        },
+        {
+          "name": "IVEO-Project",
+          "total_seconds": 11.527
+        },
+        {
+          "name": "Unknown Project",
+          "total_seconds": 3.0
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 148440.2
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 1627.9
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 150068.1
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 149688.247
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 197.0
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 182.853
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 150068.1
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-08-24",
+          "total_seconds": 31817.919
+        },
+        {
+          "date": "2026-08-25",
+          "total_seconds": 31229.11
+        },
+        {
+          "date": "2026-08-26",
+          "total_seconds": 33072.187
+        },
+        {
+          "date": "2026-08-27",
+          "total_seconds": 30082.96
+        },
+        {
+          "date": "2026-08-28",
+          "total_seconds": 30172.65
+        },
+        {
+          "date": "2026-08-29",
+          "total_seconds": 12711.765
+        },
+        {
+          "date": "2026-08-30",
+          "total_seconds": 12193.884
+        }
+      ]
     }
   ]
 }
