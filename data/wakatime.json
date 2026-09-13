@@ -2195,6 +2195,132 @@
           "total_seconds": 12193.884
         }
       ]
+    },
+    {
+      "week_start": "2026-08-31",
+      "week_end": "2026-09-06",
+      "fetched_at": "2026-09-13T11:32:52.553174Z",
+      "total_seconds": 126454.277,
+      "daily_average": 21076,
+      "best_day": {
+        "date": "2026-08-31",
+        "total_seconds": 32531.062,
+        "text": "9 hrs 2 mins"
+      },
+      "languages": [
+        {
+          "name": "Python",
+          "total_seconds": 46199.975
+        },
+        {
+          "name": "TypeScript",
+          "total_seconds": 44628.745
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 31297.965
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 2202.456
+        },
+        {
+          "name": "Bash",
+          "total_seconds": 1286.463
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 610.027
+        },
+        {
+          "name": "Git Config",
+          "total_seconds": 180.694
+        },
+        {
+          "name": "Docker",
+          "total_seconds": 39.272
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 114921.571
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 8337.914
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 2037.792
+        },
+        {
+          "name": "DACOSI-FACTURACION",
+          "total_seconds": 1165.201
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 120227.638
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 6234.84
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 126462.478
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 121220.593
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 5241.885
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 126462.478
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-08-31",
+          "total_seconds": 32531.062
+        },
+        {
+          "date": "2026-09-01",
+          "total_seconds": 30679.974
+        },
+        {
+          "date": "2026-09-02",
+          "total_seconds": 22486.811
+        },
+        {
+          "date": "2026-09-03",
+          "total_seconds": 21304.827
+        },
+        {
+          "date": "2026-09-04",
+          "total_seconds": 7265.92
+        },
+        {
+          "date": "2026-09-05",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-09-06",
+          "total_seconds": 482.123
+        }
+      ]
     }
   ]
 }
