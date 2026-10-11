@@ -2763,6 +2763,152 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-09-28",
+      "week_end": "2026-10-04",
+      "fetched_at": "2026-10-11T12:32:12.522167Z",
+      "total_seconds": 107971.423,
+      "daily_average": 21594,
+      "best_day": {
+        "date": "2026-10-01",
+        "total_seconds": 33888.436,
+        "text": "9 hrs 24 mins"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "total_seconds": 44596.379411
+        },
+        {
+          "name": "Python",
+          "total_seconds": 31967.368589
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 12374.461
+        },
+        {
+          "name": "Other",
+          "total_seconds": 8186.051
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 6257.45
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 4946.329
+        },
+        {
+          "name": "HTML",
+          "total_seconds": 2717.628
+        },
+        {
+          "name": "Text",
+          "total_seconds": 2219.876
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 91258.881
+        },
+        {
+          "name": "tullave10",
+          "total_seconds": 10684.757
+        },
+        {
+          "name": "IVEO-Project",
+          "total_seconds": 7729.036
+        },
+        {
+          "name": "rhood",
+          "total_seconds": 5762.366
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 722.434
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 88102.4
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 19467.657988
+        },
+        {
+          "name": "OpenCode",
+          "total_seconds": 8587.416012
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 99710.351
+        },
+        {
+          "name": "Linux",
+          "total_seconds": 16447.123
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 114223.544
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 1924.178
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 9.752
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 99710.351
+        },
+        {
+          "name": "omarchy",
+          "total_seconds": 16447.123
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-09-28",
+          "total_seconds": 12390.604
+        },
+        {
+          "date": "2026-09-29",
+          "total_seconds": 32351.589
+        },
+        {
+          "date": "2026-09-30",
+          "total_seconds": 30325.839
+        },
+        {
+          "date": "2026-10-01",
+          "total_seconds": 33888.436
+        },
+        {
+          "date": "2026-10-02",
+          "total_seconds": 27854.308
+        },
+        {
+          "date": "2026-10-03",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-10-04",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
