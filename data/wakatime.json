@@ -2909,6 +2909,152 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-10-05",
+      "week_end": "2026-10-11",
+      "fetched_at": "2026-10-18T10:47:11.637082Z",
+      "total_seconds": 138096.862,
+      "daily_average": 23016,
+      "best_day": {
+        "date": "2026-10-08",
+        "total_seconds": 32360.624,
+        "text": "8 hrs 59 mins"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "total_seconds": 52014.735
+        },
+        {
+          "name": "Python",
+          "total_seconds": 38858.585
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 37359.768
+        },
+        {
+          "name": "Other",
+          "total_seconds": 7499.474
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 2663.058
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 2287.994
+        },
+        {
+          "name": "INI",
+          "total_seconds": 1879.123
+        },
+        {
+          "name": "Bash",
+          "total_seconds": 1708.355
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 138853.678
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 3451.827
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 2287.994
+        },
+        {
+          "name": "agents",
+          "total_seconds": 335.537
+        },
+        {
+          "name": "rhood",
+          "total_seconds": 252.975
+        },
+        {
+          "name": "IVEO-Project",
+          "total_seconds": 230.072
+        },
+        {
+          "name": "skills",
+          "total_seconds": 164.499
+        },
+        {
+          "name": "COV",
+          "total_seconds": 19.754
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 143614.7
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 1981.636
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 145596.336
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 144751.446
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 716.93
+        },
+        {
+          "name": "Writing Docs",
+          "total_seconds": 127.96
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 145596.336
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-10-05",
+          "total_seconds": 24176.36
+        },
+        {
+          "date": "2026-10-06",
+          "total_seconds": 30745.19
+        },
+        {
+          "date": "2026-10-07",
+          "total_seconds": 23069.099
+        },
+        {
+          "date": "2026-10-08",
+          "total_seconds": 32360.624
+        },
+        {
+          "date": "2026-10-09",
+          "total_seconds": 30214.938
+        },
+        {
+          "date": "2026-10-10",
+          "total_seconds": 23124.256
+        },
+        {
+          "date": "2026-10-11",
+          "total_seconds": 0.0
+        }
+      ]
     }
   ]
 }
