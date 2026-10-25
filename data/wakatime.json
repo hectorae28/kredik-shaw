@@ -3055,6 +3055,136 @@
           "total_seconds": 0.0
         }
       ]
+    },
+    {
+      "week_start": "2026-10-12",
+      "week_end": "2026-10-18",
+      "fetched_at": "2026-10-25T11:07:17.104462Z",
+      "total_seconds": 104374.483,
+      "daily_average": 26094,
+      "best_day": {
+        "date": "2026-10-15",
+        "total_seconds": 30262.192,
+        "text": "8 hrs 24 mins"
+      },
+      "languages": [
+        {
+          "name": "TypeScript",
+          "total_seconds": 46141.121
+        },
+        {
+          "name": "Python",
+          "total_seconds": 24911.287
+        },
+        {
+          "name": "Markdown",
+          "total_seconds": 10532.415
+        },
+        {
+          "name": "HTML",
+          "total_seconds": 7157.247
+        },
+        {
+          "name": "INI",
+          "total_seconds": 5195.92
+        },
+        {
+          "name": "JavaScript",
+          "total_seconds": 3792.748
+        },
+        {
+          "name": "Other",
+          "total_seconds": 2761.71
+        },
+        {
+          "name": "YAML",
+          "total_seconds": 2576.093
+        }
+      ],
+      "projects": [
+        {
+          "name": "Sublimando-Ideas",
+          "total_seconds": 101436.59
+        },
+        {
+          "name": "IVEO-Project",
+          "total_seconds": 2618.203
+        },
+        {
+          "name": "COV-Backend",
+          "total_seconds": 2158.018
+        },
+        {
+          "name": "COV-FrontEnd",
+          "total_seconds": 891.776
+        },
+        {
+          "name": "COV",
+          "total_seconds": 31.606
+        }
+      ],
+      "editors": [
+        {
+          "name": "Claude Code",
+          "total_seconds": 106141.864
+        },
+        {
+          "name": "Neovim",
+          "total_seconds": 994.329
+        }
+      ],
+      "operating_systems": [
+        {
+          "name": "WSL",
+          "total_seconds": 107136.193
+        }
+      ],
+      "categories": [
+        {
+          "name": "AI Coding",
+          "total_seconds": 106903.057
+        },
+        {
+          "name": "Coding",
+          "total_seconds": 233.136
+        }
+      ],
+      "machines": [
+        {
+          "name": "LAPTOP-B3N3NVFO",
+          "total_seconds": 107136.193
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-10-12",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-10-13",
+          "total_seconds": 29563.97
+        },
+        {
+          "date": "2026-10-14",
+          "total_seconds": 27185.85
+        },
+        {
+          "date": "2026-10-15",
+          "total_seconds": 30262.192
+        },
+        {
+          "date": "2026-10-16",
+          "total_seconds": 31049.89
+        },
+        {
+          "date": "2026-10-17",
+          "total_seconds": 0.0
+        },
+        {
+          "date": "2026-10-18",
+          "total_seconds": 1262.401
+        }
+      ]
     }
   ]
 }
